@@ -9,13 +9,14 @@ I write code for my research and sometimes for other things.
 
 
 ### My project repositories
+- [optimal-optimizers](https://github.com/tomlinsonk/optimal-optimizers) <br>📉 Final project for [CS 6787: Advanced ML Systems](https://www.cs.cornell.edu/courses/cs6787/2020fa/) comparing PyTorch optimizers for training discrete choice models
 - [trashketball](https://github.com/tomlinsonk/trashketball) <br>🏫 [Educational tool](https://tomlinsonk.github.io/trashketball/) created for UNC Charlotte [Department of Special Education and Child Development](https://spcd.uncc.edu)
-- [site-graph](https://github.com/tomlinsonk/site-graph) <br> 🕸️ Thing I made for fun
+- [site-graph](https://github.com/tomlinsonk/site-graph) <br> 🕸️ Makes pretty website link graph visualizations
 - [euler](https://github.com/tomlinsonk/euler) <br> 🧩 My solutions to [Project Euler](https://projecteuler.net) problems
-- [mandelbrot](https://github.com/tomlinsonk/mandelbrot) <br> 🧮 Thing I made for fun
-- [civ6hof](https://github.com/tomlinsonk/civ6hof) <br> 🎖️ Thing I made for fun
-- [gravity](https://github.com/tomlinsonk/gravity) <br> 🪐 Thing I made for fun
-- [flock](https://github.com/tomlinsonk/flock) <br> 🐦 Thing I made for fun
+- [mandelbrot](https://github.com/tomlinsonk/mandelbrot) <br> 🧮 Renders the Mandelbrot set
+- [civ6hof](https://github.com/tomlinsonk/civ6hof) <br> 🎖️ An online Hall of Fame for Civ 6 (deprecated)
+- [gravity](https://github.com/tomlinsonk/gravity) <br> 🪐 2D n-body gravity simulation
+- [flock](https://github.com/tomlinsonk/flock) <br> 🐦 2D flocking simulation, à la [Boids](https://en.wikipedia.org/wiki/Boids)
 
 
 [Austin R. Benson]: https://www.cs.cornell.edu/~arb/
