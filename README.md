@@ -2,7 +2,7 @@
 I write code for my research and sometimes for other things.
 
 ### My research repositories
-- [feature-context-effects](https://github.com/tomlinsonk/feature-context-effects) <br>📝 [Learning Interpretable Feature Context Effects in Discrete Choice](https://arxiv.org/abs/2009.03417) preprint w/ [Austin R. Benson]
+- [feature-context-effects](https://github.com/tomlinsonk/feature-context-effects) <br>📝 [Learning Interpretable Feature Context Effects in Discrete Choice](https://arxiv.org/abs/2009.03417) @ KDD 2021 w/ [Austin R. Benson]
 - [choice-set-opt](https://github.com/tomlinsonk/choice-set-opt) <br>📝 [Choice Set Optimization Under Discrete Choice Models of Group Decisions](https://arxiv.org/abs/2002.00421) @ ICML 2020 w/ [Austin R. Benson]
 - [diverging-string-seqs](https://github.com/tomlinsonk/diverging-string-seqs) <br>📝 [Summarizing Diverging String Sequences, with Applications to Chain-Letter Petitions](https://drops.dagstuhl.de/opus/volltexte/2020/12136/) @ CPM 2020 w/ Patty Commins, [David Liben-Nowell], and Tina Liu
 - [cca](https://github.com/tomlinsonk/cca) <br>📝 [Phase Lengths in the Cyclic Cellular Automaton](https://www.cs.cornell.edu/~kt/publication/2019-tomlinson-cyclic-cellular-automaton/) @ CSC 2019
