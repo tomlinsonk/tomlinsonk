@@ -2,6 +2,7 @@
 I write code for my research and sometimes for other things.
 
 ### My research repositories
+- [choice-set-confounding](https://github.com/tomlinsonk/choice-set-confounding) <br>📝 [Choice Set Confounding in Discrete Choice](https://arxiv.org/abs/2105.07959) @ KDD 2021 w/ [Johan Ugander] and [Austin R. Benson]
 - [feature-context-effects](https://github.com/tomlinsonk/feature-context-effects) <br>📝 [Learning Interpretable Feature Context Effects in Discrete Choice](https://arxiv.org/abs/2009.03417) @ KDD 2021 w/ [Austin R. Benson]
 - [choice-set-opt](https://github.com/tomlinsonk/choice-set-opt) <br>📝 [Choice Set Optimization Under Discrete Choice Models of Group Decisions](https://arxiv.org/abs/2002.00421) @ ICML 2020 w/ [Austin R. Benson]
 - [diverging-string-seqs](https://github.com/tomlinsonk/diverging-string-seqs) <br>📝 [Summarizing Diverging String Sequences, with Applications to Chain-Letter Petitions](https://drops.dagstuhl.de/opus/volltexte/2020/12136/) @ CPM 2020 w/ Patty Commins, [David Liben-Nowell], and Tina Liu
@@ -21,3 +22,4 @@ I write code for my research and sometimes for other things.
 
 [Austin R. Benson]: https://www.cs.cornell.edu/~arb/
 [David Liben-Nowell]: http://cs.carleton.edu/faculty/dlibenno/
+[Johan Ugander]: http://web.stanford.edu/~jugander/
