@@ -2,6 +2,7 @@
 I write code for my research and sometimes for other things.
 
 ### My research repositories
+- [irv-ballot-length](https://github.com/tomlinsonk/irv-ballot-length) <br>📝 [Ballot Length in Instant Runoff Voting](https://arxiv.org/abs/2207.08958) w/ [Johan Ugander] and [Jon Kleinberg]
 - [choice-set-confounding](https://github.com/tomlinsonk/choice-set-confounding) <br>📝 [Choice Set Confounding in Discrete Choice](https://dl.acm.org/doi/10.1145/3447548.3467378) @ KDD 2021 w/ [Johan Ugander] and [Austin R. Benson]
 - [feature-context-effects](https://github.com/tomlinsonk/feature-context-effects) <br>📝 [Learning Interpretable Feature Context Effects in Discrete Choice](https://dl.acm.org/doi/10.1145/3447548.3467250) @ KDD 2021 w/ [Austin R. Benson]
 - [choice-set-opt](https://github.com/tomlinsonk/choice-set-opt) <br>📝 [Choice Set Optimization Under Discrete Choice Models of Group Decisions](http://proceedings.mlr.press/v119/tomlinson20a.html) @ ICML 2020 w/ [Austin R. Benson]
@@ -22,4 +23,5 @@ I write code for my research and sometimes for other things.
 
 [Austin R. Benson]: https://www.cs.cornell.edu/~arb/
 [David Liben-Nowell]: http://cs.carleton.edu/faculty/dlibenno/
+[Jon Kleinberg]: https://www.cs.cornell.edu/home/kleinber/
 [Johan Ugander]: http://web.stanford.edu/~jugander/
