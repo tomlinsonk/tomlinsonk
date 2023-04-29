@@ -2,7 +2,7 @@
 I write code for my research and sometimes for other things.
 
 ### My research repositories
-- [irv-ballot-length](https://github.com/tomlinsonk/irv-ballot-length) <br>📝 [Ballot Length in Instant Runoff Voting](https://arxiv.org/abs/2207.08958) w/ [Johan Ugander] and [Jon Kleinberg]
+- [irv-ballot-length](https://github.com/tomlinsonk/irv-ballot-length) <br>📝 [Ballot Length in Instant Runoff Voting](https://arxiv.org/abs/2207.08958) @ AAAI 2023 w/ [Johan Ugander] and [Jon Kleinberg]
 - [choice-set-confounding](https://github.com/tomlinsonk/choice-set-confounding) <br>📝 [Choice Set Confounding in Discrete Choice](https://dl.acm.org/doi/10.1145/3447548.3467378) @ KDD 2021 w/ [Johan Ugander] and [Austin R. Benson]
 - [feature-context-effects](https://github.com/tomlinsonk/feature-context-effects) <br>📝 [Learning Interpretable Feature Context Effects in Discrete Choice](https://dl.acm.org/doi/10.1145/3447548.3467250) @ KDD 2021 w/ [Austin R. Benson]
 - [choice-set-opt](https://github.com/tomlinsonk/choice-set-opt) <br>📝 [Choice Set Optimization Under Discrete Choice Models of Group Decisions](http://proceedings.mlr.press/v119/tomlinson20a.html) @ ICML 2020 w/ [Austin R. Benson]
@@ -11,6 +11,8 @@ I write code for my research and sometimes for other things.
 
 
 ### My project repositories
+- [kit-emu](https://github.com/tomlinsonk/kit-emu) <br>🛠 Emulator for my homebrew KiT computer 
+- [kit-6502-code](https://github.com/tomlinsonk/kit-6502-code) <br>💾 65C02 assembly programs for my homebrew KiT computer 
 - [optimal-optimizers](https://github.com/tomlinsonk/optimal-optimizers) <br>📉 Final project for [CS 6787: Advanced ML Systems](https://www.cs.cornell.edu/courses/cs6787/2020fa/) comparing PyTorch optimizers for training discrete choice models
 - [trashketball](https://github.com/tomlinsonk/trashketball) <br>🏫 [Educational tool](https://tomlinsonk.github.io/trashketball/) created for UNC Charlotte [Department of Special Education and Child Development](https://spcd.uncc.edu)
 - [site-graph](https://github.com/tomlinsonk/site-graph) <br> 🕸️ Makes pretty website link graph visualizations
