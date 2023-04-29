@@ -11,8 +11,8 @@ I write code for my research and sometimes for other things.
 
 
 ### My project repositories
-- [kit-emu](https://github.com/tomlinsonk/kit-emu) <br>🛠 Emulator for my homebrew KiT computer 
-- [kit-6502-code](https://github.com/tomlinsonk/kit-6502-code) <br>💾 65C02 assembly programs for my homebrew KiT computer 
+- [kit-emu](https://github.com/tomlinsonk/kit-emu) <br>🛠 Emulator for my [homebrew KiT computer](https://www.cs.cornell.edu/~kt/categories/6502/) 
+- [kit-6502-code](https://github.com/tomlinsonk/kit-6502-code) <br>💾 65C02 assembly programs for my [homebrew KiT computer](https://www.cs.cornell.edu/~kt/categories/6502/) 
 - [optimal-optimizers](https://github.com/tomlinsonk/optimal-optimizers) <br>📉 Final project for [CS 6787: Advanced ML Systems](https://www.cs.cornell.edu/courses/cs6787/2020fa/) comparing PyTorch optimizers for training discrete choice models
 - [trashketball](https://github.com/tomlinsonk/trashketball) <br>🏫 [Educational tool](https://tomlinsonk.github.io/trashketball/) created for UNC Charlotte [Department of Special Education and Child Development](https://spcd.uncc.edu)
 - [site-graph](https://github.com/tomlinsonk/site-graph) <br> 🕸️ Makes pretty website link graph visualizations
