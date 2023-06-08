@@ -2,6 +2,7 @@
 I write code for my research and sometimes for other things.
 
 ### My research repositories
+- [irv-moderation](https://github.com/tomlinsonk/irv-moderation) <br>📝 [The Moderating Effect of Instant Runoff Voting](https://arxiv.org/abs/2303.09734) w/ [Johan Ugander] and [Jon Kleinberg]
 - [irv-ballot-length](https://github.com/tomlinsonk/irv-ballot-length) <br>📝 [Ballot Length in Instant Runoff Voting](https://arxiv.org/abs/2207.08958) @ AAAI 2023 w/ [Johan Ugander] and [Jon Kleinberg]
 - [choice-set-confounding](https://github.com/tomlinsonk/choice-set-confounding) <br>📝 [Choice Set Confounding in Discrete Choice](https://dl.acm.org/doi/10.1145/3447548.3467378) @ KDD 2021 w/ [Johan Ugander] and [Austin R. Benson]
 - [feature-context-effects](https://github.com/tomlinsonk/feature-context-effects) <br>📝 [Learning Interpretable Feature Context Effects in Discrete Choice](https://dl.acm.org/doi/10.1145/3447548.3467250) @ KDD 2021 w/ [Austin R. Benson]
