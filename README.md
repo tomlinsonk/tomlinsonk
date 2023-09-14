@@ -3,6 +3,7 @@ I write code for my research and sometimes for other things.
 
 ### My research repositories
 - [irv-moderation](https://github.com/tomlinsonk/irv-moderation) <br>📝 [The Moderating Effect of Instant Runoff Voting](https://arxiv.org/abs/2303.09734) w/ [Johan Ugander] and [Jon Kleinberg]
+- [graph-based-discrete-choice](https://github.com/tomlinsonk/graph-based-discrete-choice) <br>📝 [Graph-Based Methods for Discrete Choice](https://arxiv.org/abs/2303.09734) w/ [Austin R. Benson]
 - [irv-ballot-length](https://github.com/tomlinsonk/irv-ballot-length) <br>📝 [Ballot Length in Instant Runoff Voting](https://arxiv.org/abs/2207.08958) @ AAAI 2023 w/ [Johan Ugander] and [Jon Kleinberg]
 - [choice-set-confounding](https://github.com/tomlinsonk/choice-set-confounding) <br>📝 [Choice Set Confounding in Discrete Choice](https://dl.acm.org/doi/10.1145/3447548.3467378) @ KDD 2021 w/ [Johan Ugander] and [Austin R. Benson]
 - [feature-context-effects](https://github.com/tomlinsonk/feature-context-effects) <br>📝 [Learning Interpretable Feature Context Effects in Discrete Choice](https://dl.acm.org/doi/10.1145/3447548.3467250) @ KDD 2021 w/ [Austin R. Benson]
@@ -12,11 +13,11 @@ I write code for my research and sometimes for other things.
 
 
 ### My project repositories
+- [site-graph](https://github.com/tomlinsonk/site-graph) <br> 🕸️ Makes pretty website link graph visualizations
 - [kit-emu](https://github.com/tomlinsonk/kit-emu) <br>🛠 Emulator for my [homebrew KiT computer](https://www.cs.cornell.edu/~kt/categories/6502/) 
 - [kit-6502-code](https://github.com/tomlinsonk/kit-6502-code) <br>💾 65C02 assembly programs for my [homebrew KiT computer](https://www.cs.cornell.edu/~kt/categories/6502/) 
 - [optimal-optimizers](https://github.com/tomlinsonk/optimal-optimizers) <br>📉 Final project for [CS 6787: Advanced ML Systems](https://www.cs.cornell.edu/courses/cs6787/2020fa/) comparing PyTorch optimizers for training discrete choice models
 - [trashketball](https://github.com/tomlinsonk/trashketball) <br>🏫 [Educational tool](https://tomlinsonk.github.io/trashketball/) created for UNC Charlotte [Department of Special Education and Child Development](https://spcd.uncc.edu)
-- [site-graph](https://github.com/tomlinsonk/site-graph) <br> 🕸️ Makes pretty website link graph visualizations
 - [euler](https://github.com/tomlinsonk/euler) <br> 🧩 My solutions to [Project Euler](https://projecteuler.net) problems
 - [mandelbrot](https://github.com/tomlinsonk/mandelbrot) <br> 🧮 Renders the Mandelbrot set
 - [civ6hof](https://github.com/tomlinsonk/civ6hof) <br> 🎖️ An online Hall of Fame for Civ 6 (deprecated)
