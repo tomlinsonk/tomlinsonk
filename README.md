@@ -2,13 +2,14 @@
 I write code for my research and sometimes for other things.
 
 ### My research repositories
+- [plurality-replicator-dynamics](https://github.com/tomlinsonk/plurality-replicator-dynamics) <br>📝 [Replicating Electoral Success](https://arxiv.org/abs/2402.17109) w/ [Tanvi Namjoshi], [Johan Ugander], and [Jon Kleinberg]
 - [irv-moderation](https://github.com/tomlinsonk/irv-moderation) <br>📝 [The Moderating Effect of Instant Runoff Voting](https://arxiv.org/abs/2303.09734) @ AAAI 2024 w/ [Johan Ugander] and [Jon Kleinberg]
 - [graph-based-discrete-choice](https://github.com/tomlinsonk/graph-based-discrete-choice) <br>📝 [Graph-Based Methods for Discrete Choice](https://arxiv.org/abs/2303.09734) @ *Network Science* w/ [Austin R. Benson]
 - [irv-ballot-length](https://github.com/tomlinsonk/irv-ballot-length) <br>📝 [Ballot Length in Instant Runoff Voting](https://arxiv.org/abs/2207.08958) @ AAAI 2023 w/ [Johan Ugander] and [Jon Kleinberg]
 - [choice-set-confounding](https://github.com/tomlinsonk/choice-set-confounding) <br>📝 [Choice Set Confounding in Discrete Choice](https://dl.acm.org/doi/10.1145/3447548.3467378) @ KDD 2021 w/ [Johan Ugander] and [Austin R. Benson]
 - [feature-context-effects](https://github.com/tomlinsonk/feature-context-effects) <br>📝 [Learning Interpretable Feature Context Effects in Discrete Choice](https://dl.acm.org/doi/10.1145/3447548.3467250) @ KDD 2021 w/ [Austin R. Benson]
 - [choice-set-opt](https://github.com/tomlinsonk/choice-set-opt) <br>📝 [Choice Set Optimization Under Discrete Choice Models of Group Decisions](http://proceedings.mlr.press/v119/tomlinson20a.html) @ ICML 2020 w/ [Austin R. Benson]
-- [diverging-string-seqs](https://github.com/tomlinsonk/diverging-string-seqs) <br>📝 [Summarizing Diverging String Sequences, with Applications to Chain-Letter Petitions](https://drops.dagstuhl.de/opus/volltexte/2020/12136/) @ CPM 2020 w/ Patty Commins, [David Liben-Nowell], and Tina Liu
+- [diverging-string-seqs](https://github.com/tomlinsonk/diverging-string-seqs) <br>📝 [Summarizing Diverging String Sequences, with Applications to Chain-Letter Petitions](https://drops.dagstuhl.de/opus/volltexte/2020/12136/) @ CPM 2020 w/ [Patty Commins], [David Liben-Nowell], and Tina Liu
 - [cca](https://github.com/tomlinsonk/cca) <br>📝 [Phase Lengths in the Cyclic Cellular Automaton](https://www.cs.cornell.edu/~kt/publication/2019-tomlinson-cyclic-cellular-automaton/) @ CSC 2019
 
 
@@ -29,3 +30,5 @@ I write code for my research and sometimes for other things.
 [David Liben-Nowell]: http://cs.carleton.edu/faculty/dlibenno/
 [Jon Kleinberg]: https://www.cs.cornell.edu/home/kleinber/
 [Johan Ugander]: http://web.stanford.edu/~jugander/
+[Tanvi Namjoshi]: https://tanvin33.github.io
+[Patty Commins]: https://sites.google.com/umn.edu/patty-commins/home
