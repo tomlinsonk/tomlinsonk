@@ -2,7 +2,7 @@
 I write code for my research and sometimes for other things.
 
 ### My research repositories
-- [plurality-replicator-dynamics](https://github.com/tomlinsonk/plurality-replicator-dynamics) <br>📝 [Replicating Electoral Success](https://arxiv.org/abs/2402.17109) @ AAAI 2025w/ [Tanvi Namjoshi], [Johan Ugander], and [Jon Kleinberg]
+- [plurality-replicator-dynamics](https://github.com/tomlinsonk/plurality-replicator-dynamics) <br>📝 [Replicating Electoral Success](https://arxiv.org/abs/2402.17109) @ AAAI 2025 w/ [Tanvi Namjoshi], [Johan Ugander], and [Jon Kleinberg]
 - [irv-moderation](https://github.com/tomlinsonk/irv-moderation) <br>📝 [The Moderating Effect of Instant Runoff Voting](https://arxiv.org/abs/2303.09734) @ AAAI 2024 w/ [Johan Ugander] and [Jon Kleinberg]
 - [graph-based-discrete-choice](https://github.com/tomlinsonk/graph-based-discrete-choice) <br>📝 [Graph-Based Methods for Discrete Choice](https://arxiv.org/abs/2303.09734) @ *Network Science* w/ [Austin R. Benson]
 - [irv-ballot-length](https://github.com/tomlinsonk/irv-ballot-length) <br>📝 [Ballot Length in Instant Runoff Voting](https://arxiv.org/abs/2207.08958) @ AAAI 2023 w/ [Johan Ugander] and [Jon Kleinberg]
